@@ -1,4 +1,4 @@
-# lesson
+# CRM VUE
 
 ## Project setup
 ```
